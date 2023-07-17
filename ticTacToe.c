@@ -6,15 +6,6 @@
 
 #define NEWLINES for(int i = 1; i <= 5; ++i) {puts("");}
 
-int validity(int);
-int antiStuck(int);
-void grid();
-void move(int, int, int);
-int checker();
-void computerMove();
-int inputCheck();
-void game();
-
 char row1[12] = "   |   |   ";
 char row2[12] = "   |   |   ";
 char row3[12] = "   |   |   ";
