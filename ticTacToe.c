@@ -203,7 +203,7 @@ void game() {
             moveCount++;
 
 
-        }else {
+        } else {
             printf("\nThat space is already taken.\n");
             NEWLINES
             continue;
