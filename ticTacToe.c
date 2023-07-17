@@ -172,7 +172,6 @@ int inputCheck() { // enables decimal input, which would otherwise result in une
 
 void game() {
     int a = 0;
-    int i, j;
     int r, col;
     int moveCount = 0;
 
@@ -238,7 +237,6 @@ void game() {
 
 int main(void) {
     char cont;
-    int i, j;
 
     NEWLINES
     printf("HELLO, WELCOME TO TIC-TAC-TOE.\n\n");
